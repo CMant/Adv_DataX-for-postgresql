@@ -1,3 +1,4 @@
+forgive my poor English
 this software was developed by python3 and psycopg2.
 Because i need one tool to solve my problem which on data migrate.but no one could made me satisfied.those are so fat.And some softwares are not opensource,lead migrate process put in a situation 'FULL EFFORT'.It easy cause oneline database crushed. so i develop it.
 
